@@ -132,4 +132,4 @@ ACCOUNT_AUTHENTICATION_METHOD = 'email'
 
 ACCOUNT_EMAIL_REQUIRED = True
 
-ACCOUNT_USERNAME_BLACKLIST = ['admin', 'accounts', 'profile', 'category', 'post', 'onboarding']
+ACCOUNT_USERNAME_BLACKLIST = []
